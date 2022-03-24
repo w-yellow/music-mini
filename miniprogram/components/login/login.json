@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "x-botton-model":"/components/botton-model/botton-model"
+  }
+}

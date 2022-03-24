@@ -1,0 +1,6 @@
+<view class="model" hidden="{{!modelShow}}">
+  <view class="panel">
+    <i class="iconfont icon-shanchu" bind:tap="onClose"></i>
+    <slot name="model-content"></slot>
+  </view>
+</view>

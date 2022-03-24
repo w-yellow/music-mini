@@ -1,0 +1,3 @@
+<block wx:for="{{arr}}" wx:for-item="data" wx:for-index="index">
+ <view><checkbox></checkbox>{{data}}</view>
+</block>
